@@ -4,9 +4,10 @@
   - I'm mainly known for my server, GenBrawl.
 
 # 👮 Experience
-  - Owner @ GenBrawl/BrawlRealms (1k+ Discord) (https://discord.gg/XX2uAaGCGk)
-  - Owner @ ForgeSkies (500+ Discord, purchased from previous owner/s) (https://discord.gg/4DfhgE9Nfm)
-  - Owner @ EnvyGenz (200+ Discord) (https://discord.gg/c3NcVpeAt4)
+  - Owner @ GenBrawl (1.2k+ Discord) (https://discord.gg/XX2uAaGCGk)
+  - Owner @ ForgeSkies (500+ Discord, acquired from previous owner/s) (https://discord.gg/4DfhgE9Nfm)
+  - Owner @ GenMoon (180+ Discord) (https://discord.gg/9knvzDfJNk)  
+  - Owner @ Robify (150+ Discord) (https://discord.gg/c3NcVpeAt4)
 
 # 📗 Skripts
   - All my skripts on here are available for use.
