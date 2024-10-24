@@ -1,6 +1,6 @@
 # 🌎 Who am I?
   - I'm deegl, or Deegan.
-  - I skript and make minecraft servers with that knowledge, and even provide some on here.
+  - I know skript and make minecraft servers with that knowledge, and even provide some on here.
   - I'm mainly known for my server, GenBrawl.
 
 # 📗 Skripts
