@@ -13,7 +13,7 @@
   - Owner @ GenMoon (180+ Discord) (https://discord.gg/9knvzDfJNk)  
   - Owner @ Robify (150+ Discord) (https://discord.gg/c3NcVpeAt4)
   - Manager @ Galaxion (30+ Discord) (https://discord.gg/zx4gwqp7Bv)
-  - Mod @ TowerDefense (2k+ Discord)
+  - Mod @ TowerDefense (2.3k+ Discord) (https://discord.gg/mStn3k5wWr)
   - Helper @ ViiPerMC (250+ Discord) (https://discord.gg/ugK3hEbHw4)
 
 # 👮 Past/Inactive MC Experience
