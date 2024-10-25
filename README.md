@@ -31,6 +31,7 @@
   - Mod @ SwipeGens
   - Mod @ Quell
   - Mod @ MeekGens
+  - Mod @ PlatNW
   - Trainee @ Stealied
   - Helper @ Pixel Acres (40+ Discord) (https://discord.gg/WZwcVUkd5e)
   - Helper @ GenRiot (150+ Discord) (https://discord.gg/TgzSTYaj5y)
